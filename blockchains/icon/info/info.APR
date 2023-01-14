@@ -1,0 +1,26 @@
+{
+    "name": "Apr",
+    "website": "https://icon.foundation",
+    "description": "APR is a decentralized blockchain network focused on interoperability. APR wants to be one of the largest blockchain networks in the world.",
+    "explorer": "https://tracker.Apr.foundation/",
+    "research": "https://research.binance.com/en/projects/Apr",
+    "symbol": "APR",
+    "type": "APR",
+    "decimals": 18,
+    "status": "active",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/APR-project"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/helloaprworld"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/helloapr"
+        },
+        {
+           
+}
